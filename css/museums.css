@@ -1,0 +1,1703 @@
+	body {
+		margin: 0;
+		padding: 0;
+	}
+	:root {
+		--web-view-ids: Museums;
+	}
+	#Museums * {
+		margin: 0;
+		padding: 0;
+	}
+	#Museums {
+		position: absolute;
+		box-sizing: border-box;
+		background: #E5E5E5;
+		width: 1920px;
+		height: 2486px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		margin: 0;
+		padding: 0;
+		opacity: 1;
+		--web-view-name: Museums;
+		--web-view-id: Museums;
+		--web-enable-deep-linking: true;
+	}
+	#Footer {
+		opacity: 1;
+		position: absolute;
+		width: 1920px;
+		height: 167px;
+		left: 0px;
+		top: 2322px;
+		overflow: visible;
+	}
+	#Rectangle_5 {
+		opacity: 1;
+		fill: rgba(124,124,124,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_5 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 167px;
+		left: 0px;
+		top: 0px;
+	}
+	#Copyright___2019_Design_Squad_ {
+		opacity: 1;
+		position: absolute;
+		left: 613px;
+		top: 53px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 695px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(255,255,255,1);
+	}
+	#architecture_1850731_1920 {
+		opacity: 1;
+		fill: url(#architecture_1850731_1920_A7_Rectangle_3_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.architecture_1850731_1920 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 450px;
+		left: 0px;
+		top: 150px;
+	}
+	#Museums__ {
+		opacity: 1;
+		position: absolute;
+		left: 73px;
+		top: 483px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 353px;
+		height: 115px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 75px;
+		color: rgba(255,255,255,1);
+	}
+	#Path_7 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_7 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 678px;
+		left: 73px;
+		width: 535px;
+		height: 739px;
+	}
+	#British_Museum {
+		opacity: 1;
+		position: absolute;
+		left: 109px;
+		top: 1169px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 257px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(73,73,73,1);
+		letter-spacing: 0.2px;
+	}
+	#Collection_of_rare_and_histori {
+		opacity: 1;
+		position: absolute;
+		left: 109px;
+		top: 1244px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 464px;
+		height: 105px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#NoPath___Copy__26_ {
+		opacity: 1;
+		fill: url(#NoPath___Copy__26__A7_Rectangle_5_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.NoPath___Copy__26_ {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 459px;
+		left: 73px;
+		top: 678px;
+	}
+	#Group_27 {
+		opacity: 1;
+		position: absolute;
+		width: 535px;
+		height: 739px;
+		left: 688px;
+		top: 678px;
+		overflow: visible;
+	}
+	#Rectangle_10 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_10 {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 739px;
+		left: 0px;
+		top: 0px;
+	}
+	#IWM_London {
+		opacity: 1;
+		position: absolute;
+		left: 38px;
+		top: 499px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 306px;
+		height: 38px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(73,73,73,1);
+		letter-spacing: 0.2px;
+	}
+	#Discover_the_realities_of_mode {
+		opacity: 1;
+		position: absolute;
+		left: 38px;
+		top: 566px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 464px;
+		height: 99px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#NoPath___Copy__27_ {
+		opacity: 1;
+		fill: url(#NoPath___Copy__27__A7_Rectangle_8_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.NoPath___Copy__27_ {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 459px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_28 {
+		opacity: 1;
+		position: absolute;
+		width: 535px;
+		height: 739px;
+		left: 1303px;
+		top: 678px;
+		overflow: visible;
+	}
+	#Rectangle_10_A7_Rectangle_9 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_10_A7_Rectangle_9 {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 739px;
+		left: 0px;
+		top: 0px;
+	}
+	#Victoria_and_Albert {
+		opacity: 1;
+		position: absolute;
+		left: 38px;
+		top: 499px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 327px;
+		height: 44px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(73,73,73,1);
+		letter-spacing: 0.2px;
+	}
+	#Be_dazzled_by_the_eclectic_art {
+		opacity: 1;
+		position: absolute;
+		left: 38px;
+		top: 566px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 462px;
+		height: 104px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#NoPath___Copy__28_ {
+		opacity: 1;
+		fill: url(#NoPath___Copy__28__A7_Rectangle_11_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.NoPath___Copy__28_ {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 459px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_29 {
+		opacity: 1;
+		position: absolute;
+		width: 535px;
+		height: 739px;
+		left: 73px;
+		top: 1497px;
+		overflow: visible;
+	}
+	#Path_17 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_17 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		width: 535px;
+		height: 739px;
+	}
+	#Natural_History {
+		opacity: 1;
+		position: absolute;
+		left: 37px;
+		top: 494px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 335px;
+		height: 84px;
+		line-height: 38px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(73,73,73,1);
+		letter-spacing: 0.2px;
+	}
+	#Explore_our_planet_s_living_wo {
+		opacity: 1;
+		position: absolute;
+		left: 37px;
+		top: 563px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 462px;
+		height: 108px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#NoPath___Copy__29_ {
+		opacity: 1;
+		fill: url(#NoPath___Copy__29__A7_Rectangle_13_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.NoPath___Copy__29_ {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 459px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_30 {
+		opacity: 1;
+		position: absolute;
+		width: 535px;
+		height: 739px;
+		left: 688px;
+		top: 1497px;
+		overflow: visible;
+	}
+	#Rectangle_10_A7_Rectangle_14 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_10_A7_Rectangle_14 {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 739px;
+		left: 0px;
+		top: 0px;
+	}
+	#National_Gallery {
+		opacity: 1;
+		position: absolute;
+		left: 35px;
+		top: 492px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 362px;
+		height: 94px;
+		line-height: 38px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(73,73,73,1);
+		letter-spacing: 0.2px;
+	}
+	#See_masterful_works_by_Bottice {
+		opacity: 1;
+		position: absolute;
+		left: 35px;
+		top: 561px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 501px;
+		height: 104px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#NoPath___Copy__30_ {
+		opacity: 1;
+		fill: url(#NoPath___Copy__30__A7_Rectangle_16_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.NoPath___Copy__30_ {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 459px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_31 {
+		opacity: 1;
+		position: absolute;
+		width: 535px;
+		height: 739px;
+		left: 1303px;
+		top: 1497px;
+		overflow: visible;
+	}
+	#Rectangle_10_A7_Rectangle_17 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_10_A7_Rectangle_17 {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 739px;
+		left: 0px;
+		top: 0px;
+	}
+	#Museum_of_London {
+		opacity: 1;
+		position: absolute;
+		left: 37px;
+		top: 491px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 337px;
+		height: 38px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(73,73,73,1);
+		letter-spacing: 0.2px;
+	}
+	#Explore_the_life_of_the_city_f {
+		opacity: 1;
+		position: absolute;
+		left: 37px;
+		top: 558px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 465px;
+		height: 114px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#NoPath___Copy__31_ {
+		opacity: 1;
+		fill: url(#NoPath___Copy__31__A7_Rectangle_19_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.NoPath___Copy__31_ {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 459px;
+		left: 0px;
+		top: 0px;
+	}
+	#Path_5 {
+		opacity: 1;
+		fill: rgba(233,198,214,1);
+	}
+	.Path_5 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1173.167px;
+		left: 439px;
+		width: 132.108px;
+		height: 38.833px;
+	}
+	#More_Info {
+		opacity: 1;
+		position: absolute;
+		left: 456.174px;
+		top: 1176.167px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(124,124,124,1);
+	}
+	#Path_8 {
+		opacity: 1;
+		fill: rgba(233,198,214,1);
+	}
+	.Path_8 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1990.167px;
+		left: 439px;
+		width: 132.108px;
+		height: 38.833px;
+	}
+	#More_Info_A7_Text_16 {
+		opacity: 1;
+		position: absolute;
+		left: 456.174px;
+		top: 1993.167px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(124,124,124,1);
+	}
+	#Path_9 {
+		opacity: 1;
+		fill: rgba(233,198,214,1);
+	}
+	.Path_9 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1175.167px;
+		left: 1057px;
+		width: 132.108px;
+		height: 38.833px;
+	}
+	#More_Info_A7_Text_17 {
+		opacity: 1;
+		position: absolute;
+		left: 1074.174px;
+		top: 1178.167px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(124,124,124,1);
+	}
+	#Path_10 {
+		opacity: 1;
+		fill: rgba(233,198,214,1);
+	}
+	.Path_10 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1989.167px;
+		left: 1057px;
+		width: 132.108px;
+		height: 38.833px;
+	}
+	#More_Info_A7_Text_18 {
+		opacity: 1;
+		position: absolute;
+		left: 1074.174px;
+		top: 1992.167px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(124,124,124,1);
+	}
+	#Path_11 {
+		opacity: 1;
+		fill: rgba(233,198,214,1);
+	}
+	.Path_11 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1175.167px;
+		left: 1670px;
+		width: 132.108px;
+		height: 38.833px;
+	}
+	#More_Info_A7_Text_19 {
+		opacity: 1;
+		position: absolute;
+		left: 1687.174px;
+		top: 1178.167px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(124,124,124,1);
+	}
+	#Path_12 {
+		opacity: 1;
+		fill: rgba(233,198,214,1);
+	}
+	.Path_12 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1988.167px;
+		left: 1670px;
+		width: 132.108px;
+		height: 38.833px;
+	}
+	#More_Info_A7_Text_20 {
+		opacity: 1;
+		position: absolute;
+		left: 1687.174px;
+		top: 1991.167px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(124,124,124,1);
+	}
+	#icons8_caro_2_filled_100__1_ {
+		opacity: 1;
+		fill: url(#icons8_caro_2_filled_100__1__A7_Rectangle_21_pattern);
+	}
+	.icons8_caro_2_filled_100__1_ {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 48px;
+		left: 1346px;
+		top: 1349px;
+	}
+	#Free {
+		opacity: 1;
+		position: absolute;
+		left: 1405px;
+		top: 1356px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 48px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_reloj_100 {
+		opacity: 1;
+		fill: url(#icons8_reloj_100_A7_Rectangle_23_pattern);
+	}
+	.icons8_reloj_100 {
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		height: 39px;
+		left: 1535px;
+		top: 1354px;
+	}
+	#ID10_00_17_45 {
+		opacity: 1;
+		position: absolute;
+		left: 1585px;
+		top: 1356px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 130px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_caro_2_filled_100__1__A7_Rectangle_24 {
+		opacity: 1;
+		fill: url(#icons8_caro_2_filled_100__1__A7_Rectangle_25_pattern);
+	}
+	.icons8_caro_2_filled_100__1__A7_Rectangle_24 {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 48px;
+		left: 112px;
+		top: 1349px;
+	}
+	#Free_A7_Text_23 {
+		opacity: 1;
+		position: absolute;
+		left: 171px;
+		top: 1356px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 48px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_reloj_100_A7_Rectangle_26 {
+		opacity: 1;
+		fill: url(#icons8_reloj_100_A7_Rectangle_27_pattern);
+	}
+	.icons8_reloj_100_A7_Rectangle_26 {
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		height: 39px;
+		left: 301px;
+		top: 1354px;
+	}
+	#ID10_00_17_30 {
+		opacity: 1;
+		position: absolute;
+		left: 351px;
+		top: 1356px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 130px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_caro_2_filled_100__1__A7_Rectangle_28 {
+		opacity: 1;
+		fill: url(#icons8_caro_2_filled_100__1__A7_Rectangle_29_pattern);
+	}
+	.icons8_caro_2_filled_100__1__A7_Rectangle_28 {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 48px;
+		left: 729px;
+		top: 1349px;
+	}
+	#Free_A7_Text_25 {
+		opacity: 1;
+		position: absolute;
+		left: 788px;
+		top: 1356px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 48px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_reloj_100_A7_Rectangle_30 {
+		opacity: 1;
+		fill: url(#icons8_reloj_100_A7_Rectangle_31_pattern);
+	}
+	.icons8_reloj_100_A7_Rectangle_30 {
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		height: 39px;
+		left: 918px;
+		top: 1354px;
+	}
+	#ID10_00_18_00 {
+		opacity: 1;
+		position: absolute;
+		left: 968px;
+		top: 1356px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 130px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_caro_2_filled_100__1__A7_Rectangle_32 {
+		opacity: 1;
+		fill: url(#icons8_caro_2_filled_100__1__A7_Rectangle_33_pattern);
+	}
+	.icons8_caro_2_filled_100__1__A7_Rectangle_32 {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 48px;
+		left: 111px;
+		top: 2171px;
+	}
+	#Free_A7_Text_27 {
+		opacity: 1;
+		position: absolute;
+		left: 170px;
+		top: 2178px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 48px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_reloj_100_A7_Rectangle_34 {
+		opacity: 1;
+		fill: url(#icons8_reloj_100_A7_Rectangle_35_pattern);
+	}
+	.icons8_reloj_100_A7_Rectangle_34 {
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		height: 39px;
+		left: 300px;
+		top: 2176px;
+	}
+	#ID10_00_17_50 {
+		opacity: 1;
+		position: absolute;
+		left: 350px;
+		top: 2178px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 130px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_caro_2_filled_100__1__A7_Rectangle_36 {
+		opacity: 1;
+		fill: url(#icons8_caro_2_filled_100__1__A7_Rectangle_37_pattern);
+	}
+	.icons8_caro_2_filled_100__1__A7_Rectangle_36 {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 48px;
+		left: 726px;
+		top: 2166px;
+	}
+	#Free_A7_Text_29 {
+		opacity: 1;
+		position: absolute;
+		left: 785px;
+		top: 2173px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 48px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_reloj_100_A7_Rectangle_38 {
+		opacity: 1;
+		fill: url(#icons8_reloj_100_A7_Rectangle_39_pattern);
+	}
+	.icons8_reloj_100_A7_Rectangle_38 {
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		height: 39px;
+		left: 915px;
+		top: 2171px;
+	}
+	#ID10_00_18_00_A7_Text_30 {
+		opacity: 1;
+		position: absolute;
+		left: 965px;
+		top: 2173px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 130px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_caro_2_filled_100__1__A7_Rectangle_40 {
+		opacity: 1;
+		fill: url(#icons8_caro_2_filled_100__1__A7_Rectangle_41_pattern);
+	}
+	.icons8_caro_2_filled_100__1__A7_Rectangle_40 {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 48px;
+		left: 1342px;
+		top: 2169px;
+	}
+	#Free_A7_Text_31 {
+		opacity: 1;
+		position: absolute;
+		left: 1401px;
+		top: 2176px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 48px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_reloj_100_A7_Rectangle_42 {
+		opacity: 1;
+		fill: url(#icons8_reloj_100_A7_Rectangle_43_pattern);
+	}
+	.icons8_reloj_100_A7_Rectangle_42 {
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		height: 39px;
+		left: 1531px;
+		top: 2173px;
+	}
+	#ID10_00_18_00_A7_Text_32 {
+		opacity: 1;
+		position: absolute;
+		left: 1581px;
+		top: 2175px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 130px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+	#NavBarDark {
+		opacity: 1;
+		position: absolute;
+		width: 1823px;
+		height: 100.214px;
+		left: 58px;
+		top: 25px;
+		overflow: visible;
+	}
+	#VISIT_LONDON {
+		opacity: 1;
+		position: absolute;
+		left: 116px;
+		top: 30px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 238px;
+		height: 30px;
+		text-align: center;
+		font-family: Tw Cen MT;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(73,73,73,1);
+	}
+	#Group_11 {
+		opacity: 1;
+		position: absolute;
+		width: 94px;
+		height: 100.214px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Ellipse_3 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_3 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 37px;
+		top: 0px;
+	}
+	#Path_1 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_1 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 9.5px;
+		left: 9.5px;
+		width: 76px;
+		height: 75px;
+	}
+	#Ellipse_2 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_2 {
+		position: absolute;
+		overflow: visible;
+		width: 66px;
+		height: 66px;
+		left: 14.5px;
+		top: 14.5px;
+	}
+	#Union_1 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Union_1 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 48.5px;
+		left: 47.5px;
+		width: 21.448px;
+		height: 52.399px;
+	}
+	#Ellipse_4 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_4 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 63px;
+		top: 5px;
+	}
+	#Ellipse_5 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_5 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 51px;
+		top: 1px;
+	}
+	#Ellipse_6 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_6 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 80px;
+		top: 22px;
+	}
+	#Ellipse_7 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_7 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 73px;
+		top: 12px;
+	}
+	#Ellipse_8 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_8 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 84px;
+		top: 48px;
+	}
+	#Ellipse_9 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_9 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 84px;
+		top: 34px;
+	}
+	#Ellipse_10 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_10 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 73px;
+		top: 70px;
+	}
+	#Ellipse_11 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_11 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 80px;
+		top: 60px;
+	}
+	#Ellipse_12 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_12 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 63px;
+		top: 78px;
+	}
+	#Ellipse_14 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_14 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 37px;
+		top: 83px;
+	}
+	#Ellipse_16 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_16 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 14px;
+		top: 73px;
+	}
+	#Ellipse_17 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_17 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 6px;
+		top: 64px;
+	}
+	#Ellipse_18 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_18 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 1px;
+		top: 53px;
+	}
+	#Ellipse_19 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_19 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 0px;
+		top: 41px;
+	}
+	#Ellipse_20 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_20 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 1px;
+		top: 29px;
+	}
+	#Ellipse_21 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_21 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 6px;
+		top: 19px;
+	}
+	#Ellipse_22 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_22 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 14px;
+		top: 9px;
+	}
+	#Ellipse_23 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_23 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 25px;
+		top: 3px;
+	}
+	#Union_3 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Union_3 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 48.5px;
+		left: 24px;
+		width: 23.438px;
+		height: 52.414px;
+	}
+	#Ellipse_24 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_24 {
+		position: absolute;
+		overflow: visible;
+		width: 6px;
+		height: 6px;
+		left: 44px;
+		top: 43px;
+	}
+	#Ellipse_13 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_13 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 50.5px;
+		top: 83.5px;
+	}
+	#Things_to_do_ {
+		opacity: 1;
+		position: absolute;
+		left: 1347px;
+		top: 28px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 152px;
+		height: 41px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+	#Traveller_info_ {
+		opacity: 1;
+		position: absolute;
+		left: 1543px;
+		top: 28px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 149px;
+		height: 41px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+	#Explore {
+		opacity: 1;
+		position: absolute;
+		left: 1719px;
+		top: 28px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 105px;
+		height: 41px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+	#Home {
+		opacity: 1;
+		position: absolute;
+		left: 1212px;
+		top: 28px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 152px;
+		height: 41px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}

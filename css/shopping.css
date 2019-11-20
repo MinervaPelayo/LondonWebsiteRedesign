@@ -1,0 +1,1658 @@
+	body {
+		margin: 0;
+		padding: 0;
+	}
+	:root {
+		--web-view-ids: Shopping;
+	}
+	#Shopping * {
+		margin: 0;
+		padding: 0;
+	}
+	#Shopping {
+		position: absolute;
+		box-sizing: border-box;
+		background: #E5E5E5;
+		width: 1920px;
+		height: 2486px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		margin: 0;
+		padding: 0;
+		opacity: 1;
+		--web-view-name: Shopping;
+		--web-view-id: Shopping;
+		--web-enable-deep-linking: true;
+	}
+	#Footer {
+		opacity: 1;
+		position: absolute;
+		width: 1920px;
+		height: 167px;
+		left: 0px;
+		top: 2322px;
+		overflow: visible;
+	}
+	#Rectangle_5 {
+		opacity: 1;
+		fill: rgba(124,124,124,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_5 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 167px;
+		left: 0px;
+		top: 0px;
+	}
+	#Copyright___2019_Design_Squad_ {
+		opacity: 1;
+		position: absolute;
+		left: 613px;
+		top: 53px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 695px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(255,255,255,1);
+	}
+	#NoPath___Copy__23_ {
+		opacity: 1;
+		fill: url(#NoPath___Copy__23__A9_Rectangle_3_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.NoPath___Copy__23_ {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 450px;
+		left: 0px;
+		top: 150px;
+	}
+	#Shopping_ {
+		opacity: 1;
+		position: absolute;
+		left: 73px;
+		top: 483px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 353px;
+		height: 115px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 75px;
+		color: rgba(255,255,255,1);
+	}
+	#Path_7 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_7 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 676px;
+		left: 73px;
+		width: 535px;
+		height: 739px;
+	}
+	#Oxford_Street {
+		opacity: 1;
+		position: absolute;
+		left: 110px;
+		top: 1179px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 322px;
+		height: 67px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(73,73,73,1);
+		letter-spacing: 0.2px;
+	}
+	#More_than_300_shops__designer_ {
+		opacity: 1;
+		position: absolute;
+		left: 111px;
+		top: 1247px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 459px;
+		height: 98px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_caro_2_filled_100__1_ {
+		opacity: 1;
+		fill: url(#icons8_caro_2_filled_100__1__A9_Rectangle_5_pattern);
+	}
+	.icons8_caro_2_filled_100__1_ {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 48px;
+		left: 111px;
+		top: 1349px;
+	}
+	#Free {
+		opacity: 1;
+		position: absolute;
+		left: 175px;
+		top: 1355px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 50px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_reloj_100 {
+		opacity: 1;
+		fill: url(#icons8_reloj_100_A9_Rectangle_7_pattern);
+	}
+	.icons8_reloj_100 {
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		height: 39px;
+		left: 290px;
+		top: 1352px;
+	}
+	#ID21_00_20_00 {
+		opacity: 1;
+		position: absolute;
+		left: 345px;
+		top: 1355px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 135px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#Path_5 {
+		opacity: 1;
+		fill: rgba(233,198,214,1);
+	}
+	.Path_5 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1177.167px;
+		left: 438px;
+		width: 132.107px;
+		height: 38.833px;
+	}
+	#More_Info {
+		opacity: 1;
+		position: absolute;
+		left: 455.174px;
+		top: 1180.167px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(124,124,124,1);
+	}
+	#Path_19 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_19 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 676px;
+		left: 688px;
+		width: 535px;
+		height: 739px;
+	}
+	#Regent___Jermyn_ {
+		opacity: 1;
+		position: absolute;
+		left: 725px;
+		top: 1172px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 322px;
+		height: 67px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(73,73,73,1);
+		letter-spacing: 0.2px;
+	}
+	#Offers_a_good_range_of_mid_pri {
+		opacity: 1;
+		position: absolute;
+		left: 726px;
+		top: 1242px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 459px;
+		height: 98px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#NoPath___Copy__39_ {
+		opacity: 1;
+		fill: url(#NoPath___Copy__39__A9_Rectangle_9_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.NoPath___Copy__39_ {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 459px;
+		left: 688px;
+		top: 674px;
+	}
+	#icons8_caro_2_filled_100__1__A9_Rectangle_10 {
+		opacity: 1;
+		fill: url(#icons8_caro_2_filled_100__1__A9_Rectangle_11_pattern);
+	}
+	.icons8_caro_2_filled_100__1__A9_Rectangle_10 {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 48px;
+		left: 726px;
+		top: 1350px;
+	}
+	#Free_A9_Text_10 {
+		opacity: 1;
+		position: absolute;
+		left: 790px;
+		top: 1356px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 50px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_reloj_100_A9_Rectangle_12 {
+		opacity: 1;
+		fill: url(#icons8_reloj_100_A9_Rectangle_13_pattern);
+	}
+	.icons8_reloj_100_A9_Rectangle_12 {
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		height: 39px;
+		left: 905px;
+		top: 1353px;
+	}
+	#ID10_00_19_00 {
+		opacity: 1;
+		position: absolute;
+		left: 960px;
+		top: 1356px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 135px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#Path_20 {
+		opacity: 1;
+		fill: rgba(233,198,214,1);
+	}
+	.Path_20 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1170.167px;
+		left: 1053px;
+		width: 132.107px;
+		height: 38.833px;
+	}
+	#More_Info_A9_Text_12 {
+		opacity: 1;
+		position: absolute;
+		left: 1070.174px;
+		top: 1173.167px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(124,124,124,1);
+	}
+	#Path_21 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_21 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 676px;
+		left: 1303px;
+		width: 535px;
+		height: 739px;
+	}
+	#Bond_and_Mayfair {
+		opacity: 1;
+		position: absolute;
+		left: 1340px;
+		top: 1172px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 322px;
+		height: 67px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(73,73,73,1);
+		letter-spacing: 0.2px;
+	}
+	#Ideal_places_to_go_for_some_ex {
+		opacity: 1;
+		position: absolute;
+		left: 1341px;
+		top: 1242px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 459px;
+		height: 98px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#NoPath___Copy__40_ {
+		opacity: 1;
+		fill: url(#NoPath___Copy__40__A9_Rectangle_15_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.NoPath___Copy__40_ {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 459px;
+		left: 1303px;
+		top: 674px;
+	}
+	#icons8_caro_2_filled_100__1__A9_Rectangle_16 {
+		opacity: 1;
+		fill: url(#icons8_caro_2_filled_100__1__A9_Rectangle_17_pattern);
+	}
+	.icons8_caro_2_filled_100__1__A9_Rectangle_16 {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 48px;
+		left: 1341px;
+		top: 1350px;
+	}
+	#Free_A9_Text_15 {
+		opacity: 1;
+		position: absolute;
+		left: 1405px;
+		top: 1356px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 50px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_reloj_100_A9_Rectangle_18 {
+		opacity: 1;
+		fill: url(#icons8_reloj_100_A9_Rectangle_19_pattern);
+	}
+	.icons8_reloj_100_A9_Rectangle_18 {
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		height: 39px;
+		left: 1520px;
+		top: 1353px;
+	}
+	#ID10_00_17_30 {
+		opacity: 1;
+		position: absolute;
+		left: 1575px;
+		top: 1356px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 135px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#Path_22 {
+		opacity: 1;
+		fill: rgba(233,198,214,1);
+	}
+	.Path_22 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1170.167px;
+		left: 1668px;
+		width: 132.107px;
+		height: 38.833px;
+	}
+	#More_Info_A9_Text_17 {
+		opacity: 1;
+		position: absolute;
+		left: 1685.174px;
+		top: 1173.167px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(124,124,124,1);
+	}
+	#NoPath___Copy__38_ {
+		opacity: 1;
+		fill: url(#NoPath___Copy__38__A9_Rectangle_21_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.NoPath___Copy__38_ {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 459px;
+		left: 73px;
+		top: 674px;
+	}
+	#Path_23 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_23 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1496px;
+		left: 73px;
+		width: 535px;
+		height: 739px;
+	}
+	#Westfield {
+		opacity: 1;
+		position: absolute;
+		left: 110px;
+		top: 1999px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 322px;
+		height: 67px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(73,73,73,1);
+		letter-spacing: 0.2px;
+	}
+	#Two_major_shopping_centres_in_ {
+		opacity: 1;
+		position: absolute;
+		left: 111px;
+		top: 2067px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 459px;
+		height: 98px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#Path_24 {
+		opacity: 1;
+		fill: rgba(233,198,214,1);
+	}
+	.Path_24 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1997.167px;
+		left: 438px;
+		width: 132.107px;
+		height: 38.833px;
+	}
+	#More_Info_A9_Text_20 {
+		opacity: 1;
+		position: absolute;
+		left: 455.174px;
+		top: 2000.167px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(124,124,124,1);
+	}
+	#NoPath___Copy__41_ {
+		opacity: 1;
+		fill: url(#NoPath___Copy__41__A9_Rectangle_23_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.NoPath___Copy__41_ {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 459px;
+		left: 73px;
+		top: 1494px;
+	}
+	#Path_25 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_25 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1496px;
+		left: 688px;
+		width: 535px;
+		height: 739px;
+	}
+	#Carnaby_Street {
+		opacity: 1;
+		position: absolute;
+		left: 725px;
+		top: 1992px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 322px;
+		height: 67px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(73,73,73,1);
+		letter-spacing: 0.2px;
+	}
+	#The_birthplace_of_fashion_and_ {
+		opacity: 1;
+		position: absolute;
+		left: 726px;
+		top: 2062px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 459px;
+		height: 98px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#NoPath___Copy__42_ {
+		opacity: 1;
+		fill: url(#NoPath___Copy__42__A9_Rectangle_25_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.NoPath___Copy__42_ {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 459px;
+		left: 688px;
+		top: 1494px;
+	}
+	#Path_26 {
+		opacity: 1;
+		fill: rgba(233,198,214,1);
+	}
+	.Path_26 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1990.167px;
+		left: 1053px;
+		width: 132.107px;
+		height: 38.833px;
+	}
+	#More_Info_A9_Text_23 {
+		opacity: 1;
+		position: absolute;
+		left: 1070.174px;
+		top: 1993.167px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(124,124,124,1);
+	}
+	#Path_27 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_27 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1496px;
+		left: 1303px;
+		width: 535px;
+		height: 739px;
+	}
+	#Covent_Garden {
+		opacity: 1;
+		position: absolute;
+		left: 1340px;
+		top: 1992px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 322px;
+		height: 67px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(73,73,73,1);
+		letter-spacing: 0.2px;
+	}
+	#Hip_fashion__unique_gifts__rar {
+		opacity: 1;
+		position: absolute;
+		left: 1341px;
+		top: 2062px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 459px;
+		height: 98px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#NoPath___Copy__43_ {
+		opacity: 1;
+		fill: url(#NoPath___Copy__43__A9_Rectangle_27_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.NoPath___Copy__43_ {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 459px;
+		left: 1303px;
+		top: 1494px;
+	}
+	#Path_28 {
+		opacity: 1;
+		fill: rgba(233,198,214,1);
+	}
+	.Path_28 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1990.167px;
+		left: 1668px;
+		width: 132.107px;
+		height: 38.833px;
+	}
+	#More_Info_A9_Text_26 {
+		opacity: 1;
+		position: absolute;
+		left: 1685.174px;
+		top: 1993.167px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(124,124,124,1);
+	}
+	#icons8_caro_2_filled_100__1__A9_Rectangle_28 {
+		opacity: 1;
+		fill: url(#icons8_caro_2_filled_100__1__A9_Rectangle_29_pattern);
+	}
+	.icons8_caro_2_filled_100__1__A9_Rectangle_28 {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 48px;
+		left: 111px;
+		top: 2169px;
+	}
+	#Free_A9_Text_27 {
+		opacity: 1;
+		position: absolute;
+		left: 175px;
+		top: 2175px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 50px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_reloj_100_A9_Rectangle_30 {
+		opacity: 1;
+		fill: url(#icons8_reloj_100_A9_Rectangle_31_pattern);
+	}
+	.icons8_reloj_100_A9_Rectangle_30 {
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		height: 39px;
+		left: 290px;
+		top: 2172px;
+	}
+	#ID10_00_22_00 {
+		opacity: 1;
+		position: absolute;
+		left: 345px;
+		top: 2175px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 135px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_caro_2_filled_100__1__A9_Rectangle_32 {
+		opacity: 1;
+		fill: url(#icons8_caro_2_filled_100__1__A9_Rectangle_33_pattern);
+	}
+	.icons8_caro_2_filled_100__1__A9_Rectangle_32 {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 48px;
+		left: 726px;
+		top: 2170px;
+	}
+	#Free_A9_Text_29 {
+		opacity: 1;
+		position: absolute;
+		left: 790px;
+		top: 2176px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 50px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_reloj_100_A9_Rectangle_34 {
+		opacity: 1;
+		fill: url(#icons8_reloj_100_A9_Rectangle_35_pattern);
+	}
+	.icons8_reloj_100_A9_Rectangle_34 {
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		height: 39px;
+		left: 905px;
+		top: 2173px;
+	}
+	#ID10_00_19_00_A9_Text_30 {
+		opacity: 1;
+		position: absolute;
+		left: 960px;
+		top: 2176px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 135px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_caro_2_filled_100__1__A9_Rectangle_36 {
+		opacity: 1;
+		fill: url(#icons8_caro_2_filled_100__1__A9_Rectangle_37_pattern);
+	}
+	.icons8_caro_2_filled_100__1__A9_Rectangle_36 {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 48px;
+		left: 1341px;
+		top: 2170px;
+	}
+	#Free_A9_Text_31 {
+		opacity: 1;
+		position: absolute;
+		left: 1405px;
+		top: 2176px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 50px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#icons8_reloj_100_A9_Rectangle_38 {
+		opacity: 1;
+		fill: url(#icons8_reloj_100_A9_Rectangle_39_pattern);
+	}
+	.icons8_reloj_100_A9_Rectangle_38 {
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		height: 39px;
+		left: 1520px;
+		top: 2173px;
+	}
+	#ID10_00_19_00_A9_Text_32 {
+		opacity: 1;
+		position: absolute;
+		left: 1575px;
+		top: 2176px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 135px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+	#NavBarDark {
+		opacity: 1;
+		position: absolute;
+		width: 1823px;
+		height: 100.214px;
+		left: 58px;
+		top: 25px;
+		overflow: visible;
+	}
+	#VISIT_LONDON {
+		opacity: 1;
+		position: absolute;
+		left: 116px;
+		top: 30px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 238px;
+		height: 30px;
+		text-align: center;
+		font-family: Tw Cen MT;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(73,73,73,1);
+	}
+	#Group_11 {
+		opacity: 1;
+		position: absolute;
+		width: 94px;
+		height: 100.214px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Ellipse_3 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_3 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 37px;
+		top: 0px;
+	}
+	#Path_1 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_1 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 9.5px;
+		left: 9.5px;
+		width: 76px;
+		height: 75px;
+	}
+	#Ellipse_2 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_2 {
+		position: absolute;
+		overflow: visible;
+		width: 66px;
+		height: 66px;
+		left: 14.5px;
+		top: 14.5px;
+	}
+	#Union_1 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Union_1 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 48.5px;
+		left: 47.5px;
+		width: 21.447px;
+		height: 52.399px;
+	}
+	#Ellipse_4 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_4 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 63px;
+		top: 5px;
+	}
+	#Ellipse_5 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_5 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 51px;
+		top: 1px;
+	}
+	#Ellipse_6 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_6 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 80px;
+		top: 22px;
+	}
+	#Ellipse_7 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_7 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 73px;
+		top: 12px;
+	}
+	#Ellipse_8 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_8 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 84px;
+		top: 48px;
+	}
+	#Ellipse_9 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_9 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 84px;
+		top: 34px;
+	}
+	#Ellipse_10 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_10 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 73px;
+		top: 70px;
+	}
+	#Ellipse_11 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_11 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 80px;
+		top: 60px;
+	}
+	#Ellipse_12 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_12 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 63px;
+		top: 78px;
+	}
+	#Ellipse_14 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_14 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 37px;
+		top: 83px;
+	}
+	#Ellipse_16 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_16 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 14px;
+		top: 73px;
+	}
+	#Ellipse_17 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_17 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 6px;
+		top: 64px;
+	}
+	#Ellipse_18 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_18 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 1px;
+		top: 53px;
+	}
+	#Ellipse_19 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_19 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 0px;
+		top: 41px;
+	}
+	#Ellipse_20 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_20 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 1px;
+		top: 29px;
+	}
+	#Ellipse_21 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_21 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 6px;
+		top: 19px;
+	}
+	#Ellipse_22 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_22 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 14px;
+		top: 9px;
+	}
+	#Ellipse_23 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_23 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 25px;
+		top: 3px;
+	}
+	#Union_3 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Union_3 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 48.5px;
+		left: 24px;
+		width: 23.438px;
+		height: 52.414px;
+	}
+	#Ellipse_24 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_24 {
+		position: absolute;
+		overflow: visible;
+		width: 6px;
+		height: 6px;
+		left: 44px;
+		top: 43px;
+	}
+	#Ellipse_13 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_13 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 50.5px;
+		top: 83.5px;
+	}
+	#Things_to_do_ {
+		opacity: 1;
+		position: absolute;
+		left: 1347px;
+		top: 28px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 152px;
+		height: 41px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+	#Traveller_info_ {
+		opacity: 1;
+		position: absolute;
+		left: 1543px;
+		top: 28px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 149px;
+		height: 41px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+	#Explore {
+		opacity: 1;
+		position: absolute;
+		left: 1719px;
+		top: 28px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 105px;
+		height: 41px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+	#Home {
+		opacity: 1;
+		position: absolute;
+		left: 1212px;
+		top: 28px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 152px;
+		height: 41px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
